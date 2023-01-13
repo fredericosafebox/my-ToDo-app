@@ -24,7 +24,7 @@ export default GoalItem;
 
 const styles = StyleSheet.create({
   individualGoalWrapper: {
-    backgroundColor: "#023047",
+    backgroundColor: "#5e0acc",
     margin: 8,
     borderRadius: 4,
   },
@@ -32,7 +32,8 @@ const styles = StyleSheet.create({
     opacity: 0.5,
   },
   individualGoal: {
-    color: "#f3f3f3",
+    color: "#fff",
+    fontWeight: "900",
     padding: 16,
   },
 });
